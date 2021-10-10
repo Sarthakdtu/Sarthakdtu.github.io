@@ -37,7 +37,7 @@ body, html {
 .index{
   
   height: 100%;
-  background-image: url("images/bg2.jpg");
+  background-image: url("images/anime_bg.jpg");
   padding-top: 23%;
   background-position: center;
   background-repeat: no-repeat;
@@ -71,6 +71,11 @@ body, html {
 }
 
 .skill_image{
+	height: 100px;
+	width: 100px;
+}
+
+.icon_image{
 	height: 100px;
 	width: 100px;
 }
@@ -132,3 +137,11 @@ body, html {
   }
 }
 
+
+
+#tracktitle{
+  color: greenyellow;
+  text-shadow: violet;
+  font-weight: 3000;
+  
+}
